@@ -1,0 +1,13 @@
+Package: golemDemo
+Title: A demo of a shiny app built with golem
+Version: 0.0.0.9000
+Authors@R: person('Bruno', 'Rodrigues', email = 'bruno@brodrigues.co', role = c('cre', 'aut'))
+Description: This package illustrates how to built a shiny app with golem and ggiraph graphics.
+License: What license is it under?
+Imports: 
+    config,
+    golem,
+    shiny
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
