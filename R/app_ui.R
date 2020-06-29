@@ -3,14 +3,37 @@
 #' @param request Internal parameter for `{shiny}`. 
 #'     DO NOT REMOVE.
 #' @import shiny
+#' @import shinydashboard
 #' @noRd
 app_ui <- function(request) {
   tagList(
-    # Leave this function for adding external resources
+                                        # Leave this function for adding external resources
     golem_add_external_resources(),
-    # List the first level UI elements here 
-    fluidPage(
-      h1("golemDemo")
+                                        # List the first level UI elements here
+    dashboardPage(
+      dashboardHeader(title = "Prototype: dashboard ecoles"),
+      dashboardSidebar(
+        sidebarMenu(
+          menuItem("Carte", tabName = "Carte", icon = icon("map")),
+          menuItem("Tests journaliers", tabName = "Tests_journaliers", icon = icon("chart-line"))
+        )
+      ),
+      dashboardBody(
+        tabItems(
+          tabItem(tabName = "Carte",
+                  fluidRow(
+                    column(
+                      width = 4,
+                      mod_load_data_ui("load_data_ui_1"),
+                      mod_table_data_ui("table_data_ui_1")
+                    ),
+                    column(
+                      width = 6, offset = 2,
+                      mod_map_data_ui("map_data_ui_1")
+                    )
+                  ))
+        )
+      )
     )
   )
 }
