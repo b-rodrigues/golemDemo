@@ -1,0 +1,25 @@
+road,dir1,dir2,lon,lat,type_road
+N12 Emeschbach,Wincrange,Asselborn,5.9527703173095,50.0897801029259,National road
+N7 Dorscheid,Hoscheid,Marnach,6.07876029205389,50.040990070037,National road
+N14 Stegen,Stegen,Medernach,6.18874016534491,49.8236300359568,National road
+N10A Steinheim,Steinheim,Echternach,6.48366016863306,49.8135099619547,National road
+N7 Rouscht,Rouscht,Mersch,6.08666013130004,49.7696500596481,National road
+CR101 Schoenfels,Kopstal,Schoenfels,6.09063009835031,49.7144700573053,Reused path
+N28 Pleitreng,Oetrange,Bous,6.2792900311941,49.590430007648,National road
+N5 Niderterhaff,Bascharage,Helfent,6.01899002532371,49.5934700716813,National road
+N13 Welfrange,Dalheim,Bous,6.28740000293179,49.5420100041887,National road
+N7 Lipperscheid,Lipperscheid,Dellt,6.10490633611947,49.9146094634785,National road
+N8 Reckange,Brouch,Reckange,6.07893012015509,49.7524100611859,National road
+N10 Schmetterwier,Wallendorf Pont,Bollendorf Pont,6.3210401787342,49.8384100030055,National road
+N24 Oberpallen,Oberpallen,Beckerich,5.87391010256782,49.731480110659,National road
+N13 Gernich,Windhof,Garnich,5.95641004576448,49.6297800877932,National road
+N3 Schlammestee,Hespérange,Frisange,6.18003999511036,49.5329200307167,National road
+N10 Hettermillen,Ehnen,Stadtbredimus,6.37354003212831,49.5887799839958,National road
+B7/A7 Schieren,Ettelbruck,Ingeldorf,6.10002788548875,49.8341875213321,Highway
+N15 Heiderscheidergrund,Heiderscheidergrund,Heiderscheid,5.9601502068094,49.9036200953298,National road
+A4/B4 Merl,Luxembourg,Esch-Alzette,6.10132003168012,49.6003900518576,Highway
+N8 - entre Saeul et Brouch,Saeul,Brouch,6.00781146644582,49.7312418960869,National road
+CR118 - entre Mersch et Angelsberg,Mersch,Angelsberg,6.12421302548327,49.7506177021826,Reused path
+A4 - en amont du giratoire Raemerich,NA,NA,5.96873221800413,49.5114368434454,Highway
+B40 - liaison Micheville,NA,NA,5.9435118951148596,49.4999827315959,Highway
+N12 Lehrhaff,NA,NA,5.94604324838462,49.8560807255441,National road
