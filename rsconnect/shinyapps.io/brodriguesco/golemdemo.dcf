@@ -5,6 +5,6 @@ account: brodriguesco
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 2791417
-bundleId: 3619199
+bundleId: 3646390
 url: https://brodriguesco.shinyapps.io/golemdemo/
-when: 1599837170.94114
+when: 1600507726.42049
