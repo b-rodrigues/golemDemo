@@ -15,7 +15,7 @@ app_ui <- function(request) {
       dashboardSidebar(
         sidebarMenu(
           menuItem("Carte", tabName = "Carte", icon = icon("map")),
-          menuItem("Tests journaliers", tabName = "Tests_journaliers", icon = icon("chart-line"))
+          menuItem("Tab 2", tabName = "tab_2", icon = icon("chart-line"))
         )
       ),
       dashboardBody(
